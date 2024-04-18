@@ -16,7 +16,7 @@ function App() {
     return (
         <div className={styles.page}>
             <div>
-                <h1 className={styles.title}>Semantic UI Is Great</h1>
+                <h1 className={styles.title}>Semantic UI Is Great!</h1>
                 <p className={styles.description}>
                     With Semantic UI, you can create beautiful websites using human-friendly HTML
                     and intuitive javascript. <br />
